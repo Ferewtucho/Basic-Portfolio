@@ -1,6 +1,6 @@
 body {
     background: #4aaaa5;
-    background-image: url("background.jpg")
+    background-image: url("../image/background.jpg");
 }
 
 .wrapper {
@@ -64,8 +64,8 @@ a {
     color: #ffffff;
     text-align: center;
 }
-/*contact me*/
 
+/* Contact */
 
 input[type=text], select, textarea {
     width: 100%;
@@ -115,7 +115,8 @@ input[type=submit]:hover {
     box-sizing: border-box;
 }
 
-/* Portfolios */
+/* Portfolio */
+
 .floating1 {
     float: left;
 }
